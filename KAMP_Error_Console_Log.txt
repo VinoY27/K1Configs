@@ -1,0 +1,334 @@
+7:17 AM
+{"code":"key60", "msg":"Internal error on command:START_PRINT", "values": ["START_PRINT"]}
+7:17 AM
+{"code":"key60", "msg":"Internal error on command:BED_MESH_CALIBRATE", "values": ["BED_MESH_CALIBRATE"]}
+7:17 AM
+{"code":"key60", "msg":"Internal error on command:_BED_MESH_CALIBRATE", "values": ["_BED_MESH_CALIBRATE"]}
+7:17 AM
+Klipper state: Shutdown
+7:17 AM
+probe at 75.286,206.365 is z=-0.295719
+7:17 AM
+probe at 109.996,206.365 is z=-0.256688
+7:17 AM
+probe at 144.706,206.365 is z=-0.207187
+7:17 AM
+probe at 179.416,206.365 is z=-0.017062
+7:17 AM
+probe at 179.416,169.605 is z=0.069031
+7:17 AM
+probe at 144.706,169.605 is z=-0.066500
+7:17 AM
+probe at 109.996,169.605 is z=-0.124906
+7:16 AM
+probe at 75.286,169.605 is z=-0.161906
+7:16 AM
+probe at 40.576,169.605 is z=-0.197750
+7:16 AM
+probe at 40.576,132.845 is z=-0.090813
+7:16 AM
+probe at 75.286,132.845 is z=-0.090375
+7:16 AM
+probe at 109.996,132.845 is z=-0.079219
+7:16 AM
+probe at 144.706,132.845 is z=-0.015094
+7:16 AM
+probe at 179.416,132.845 is z=0.141105
+7:16 AM
+probe at 179.416,96.085 is z=0.225991
+7:16 AM
+probe at 144.706,96.085 is z=0.206375
+7:16 AM
+probe at 109.996,96.085 is z=0.056469
+7:15 AM
+probe at 75.286,96.085 is z=0.068437
+7:15 AM
+probe at 40.576,96.085 is z=0.054312
+7:15 AM
+probe at 40.576,59.325 is z=0.279111
+7:15 AM
+probe at 75.286,59.325 is z=0.241000
+7:15 AM
+probe at 109.996,59.325 is z=0.277781
+7:15 AM
+probe at 144.706,59.325 is z=0.402156
+7:15 AM
+probe at 179.416,59.325 is z=0.441375
+7:15 AM
+probe at 179.416,22.565 is z=0.640139
+7:14 AM
+probe at 144.706,22.565 is z=0.483562
+7:14 AM
+probe at 109.996,22.565 is z=0.463767
+7:14 AM
+probe at 75.286,22.565 is z=0.382062
+7:14 AM
+probe at 40.576,22.565 is z=0.442219
+7:13 AM
+29 | (40.6, 206.4) | (40.6, 206.4)
+7:13 AM
+28 | (75.3, 206.4) | (75.3, 206.4)
+7:13 AM
+27 | (110.0, 206.4) | (110.0, 206.4)
+7:13 AM
+26 | (144.7, 206.4) | (144.7, 206.4)
+7:13 AM
+25 | (179.4, 206.4) | (179.4, 206.4)
+7:13 AM
+24 | (179.4, 169.6) | (179.4, 169.6)
+7:13 AM
+23 | (144.7, 169.6) | (144.7, 169.6)
+7:13 AM
+22 | (110.0, 169.6) | (110.0, 169.6)
+7:13 AM
+21 | (75.3, 169.6) | (75.3, 169.6)
+7:13 AM
+20 | (40.6, 169.6) | (40.6, 169.6)
+7:13 AM
+19 | (40.6, 132.8) | (40.6, 132.8)
+7:13 AM
+18 | (75.3, 132.8) | (75.3, 132.8)
+7:13 AM
+17 | (110.0, 132.8) | (110.0, 132.8)
+7:13 AM
+16 | (144.7, 132.8) | (144.7, 132.8)
+7:13 AM
+15 | (179.4, 132.8) | (179.4, 132.8)
+7:13 AM
+14 | (179.4, 96.1) | (179.4, 96.1)
+7:13 AM
+13 | (144.7, 96.1) | (144.7, 96.1)
+7:13 AM
+12 | (110.0, 96.1) | (110.0, 96.1)
+7:13 AM
+11 | (75.3, 96.1) | (75.3, 96.1)
+7:13 AM
+10 | (40.6, 96.1) | (40.6, 96.1)
+7:13 AM
+9 | (40.6, 59.3) | (40.6, 59.3)
+7:13 AM
+8 | (75.3, 59.3) | (75.3, 59.3)
+7:13 AM
+7 | (110.0, 59.3) | (110.0, 59.3)
+7:13 AM
+6 | (144.7, 59.3) | (144.7, 59.3)
+7:13 AM
+5 | (179.4, 59.3) | (179.4, 59.3)
+7:13 AM
+4 | (179.4, 22.6) | (179.4, 22.6)
+7:13 AM
+3 | (144.7, 22.6) | (144.7, 22.6)
+7:13 AM
+2 | (110.0, 22.6) | (110.0, 22.6)
+7:13 AM
+1 | (75.3, 22.6) | (75.3, 22.6)
+7:13 AM
+0 | (40.6, 22.6) | (40.6, 22.6)
+7:13 AM
+bed_mesh: generated points
+Index | Tool Adjusted | Probe
+7:13 AM
+Generating new points...
+7:13 AM
+KAMP adjustments successful. Happy KAMPing!
+7:13 AM
+Adapted mesh bounds: (40.5762, 22.5653), (179.446, 206.385).
+7:13 AM
+Mesh point fuzzing enabled, points fuzzed up to 1.0mm.
+7:13 AM
+Mesh margin is 0, margin not increased.
+7:13 AM
+Default mesh bounds: (5.0, 5.0), (215.0, 215.0).
+7:13 AM
+Adapted probe count: 5,6.
+7:13 AM
+Default probe count: 6,6.
+7:13 AM
+Algorithm: lagrange.
+7:12 AM
+Run Current: 0.44A Hold Current: 0.44A
+7:11 AM
+y_park = 104.0
+7:11 AM
+x_park = -104.5
+7:11 AM
+move xy
+7:11 AM
+x_axes is NULL
+7:11 AM
+not prepare.
+7:11 AM
+File selected
+7:11 AM
+File opened:MainPhoneHolder_PLA_2h12m.gcode Size:10376088
+7:10 AM
+Klipper state: Disconnect
+7:10 AM
+Klipper state: Disconnect
+7:10 AM
+RESTART
+7:10 AM
+{"code":"key60", "msg":"Internal error on command:START_PRINT", "values": ["START_PRINT"]}
+7:10 AM
+{"code":"key60", "msg":"Internal error on command:BED_MESH_CALIBRATE", "values": ["BED_MESH_CALIBRATE"]}
+7:10 AM
+{"code":"key60", "msg":"Internal error on command:_BED_MESH_CALIBRATE", "values": ["_BED_MESH_CALIBRATE"]}
+7:10 AM
+Klipper state: Shutdown
+7:10 AM
+probe at 74.846,206.425 is z=-0.325938
+7:09 AM
+probe at 109.496,206.425 is z=-0.287594
+7:09 AM
+probe at 144.146,206.425 is z=-0.249312
+7:09 AM
+probe at 178.796,206.425 is z=-0.157906
+7:09 AM
+probe at 178.796,169.635 is z=-0.002156
+7:09 AM
+probe at 144.146,169.635 is z=-0.131000
+7:09 AM
+probe at 109.496,169.635 is z=-0.174594
+7:09 AM
+probe at 74.846,169.635 is z=-0.247406
+7:09 AM
+probe at 40.196,169.635 is z=-0.267244
+7:09 AM
+probe at 40.196,132.845 is z=-0.165744
+7:08 AM
+probe at 74.846,132.845 is z=-0.148690
+7:08 AM
+probe at 109.496,132.845 is z=-0.105656
+7:08 AM
+probe at 144.146,132.845 is z=-0.074080
+7:08 AM
+probe at 178.796,132.845 is z=0.041312
+7:08 AM
+probe at 178.796,96.055 is z=0.162196
+7:08 AM
+probe at 144.146,96.055 is z=0.145625
+7:08 AM
+probe at 109.496,96.055 is z=0.002875
+7:08 AM
+probe at 74.846,96.055 is z=-0.018625
+7:08 AM
+probe at 40.196,96.055 is z=-0.024656
+7:08 AM
+probe at 40.196,59.265 is z=0.118406
+7:07 AM
+probe at 74.846,59.265 is z=0.138500
+7:07 AM
+probe at 109.496,59.265 is z=0.227963
+7:07 AM
+probe at 144.146,59.265 is z=0.321594
+7:07 AM
+probe at 178.796,59.265 is z=0.469955
+7:07 AM
+probe at 178.796,22.475 is z=0.558125
+7:07 AM
+probe at 144.146,22.475 is z=0.419111
+7:07 AM
+probe at 109.496,22.475 is z=0.366565
+7:07 AM
+probe at 74.846,22.475 is z=0.258062
+7:07 AM
+probe at 40.196,22.475 is z=0.258031
+7:06 AM
+29 | (40.2, 206.4) | (40.2, 206.4)
+7:06 AM
+28 | (74.8, 206.4) | (74.8, 206.4)
+7:06 AM
+27 | (109.5, 206.4) | (109.5, 206.4)
+7:06 AM
+26 | (144.1, 206.4) | (144.1, 206.4)
+7:06 AM
+25 | (178.8, 206.4) | (178.8, 206.4)
+7:06 AM
+24 | (178.8, 169.6) | (178.8, 169.6)
+7:06 AM
+23 | (144.1, 169.6) | (144.1, 169.6)
+7:06 AM
+22 | (109.5, 169.6) | (109.5, 169.6)
+7:06 AM
+21 | (74.8, 169.6) | (74.8, 169.6)
+7:06 AM
+20 | (40.2, 169.6) | (40.2, 169.6)
+7:06 AM
+19 | (40.2, 132.8) | (40.2, 132.8)
+7:06 AM
+18 | (74.8, 132.8) | (74.8, 132.8)
+7:06 AM
+17 | (109.5, 132.8) | (109.5, 132.8)
+7:06 AM
+16 | (144.1, 132.8) | (144.1, 132.8)
+7:06 AM
+15 | (178.8, 132.8) | (178.8, 132.8)
+7:06 AM
+14 | (178.8, 96.1) | (178.8, 96.1)
+7:06 AM
+13 | (144.1, 96.1) | (144.1, 96.1)
+7:06 AM
+12 | (109.5, 96.1) | (109.5, 96.1)
+7:06 AM
+11 | (74.8, 96.1) | (74.8, 96.1)
+7:06 AM
+10 | (40.2, 96.1) | (40.2, 96.1)
+7:06 AM
+9 | (40.2, 59.3) | (40.2, 59.3)
+7:06 AM
+8 | (74.8, 59.3) | (74.8, 59.3)
+7:06 AM
+7 | (109.5, 59.3) | (109.5, 59.3)
+7:06 AM
+6 | (144.1, 59.3) | (144.1, 59.3)
+7:06 AM
+5 | (178.8, 59.3) | (178.8, 59.3)
+7:06 AM
+4 | (178.8, 22.5) | (178.8, 22.5)
+7:06 AM
+3 | (144.1, 22.5) | (144.1, 22.5)
+7:06 AM
+2 | (109.5, 22.5) | (109.5, 22.5)
+7:06 AM
+1 | (74.8, 22.5) | (74.8, 22.5)
+7:06 AM
+0 | (40.2, 22.5) | (40.2, 22.5)
+7:06 AM
+bed_mesh: generated points
+Index | Tool Adjusted | Probe
+7:06 AM
+Generating new points...
+7:06 AM
+KAMP adjustments successful. Happy KAMPing!
+7:06 AM
+Adapted mesh bounds: (40.1962, 22.4753), (178.806, 206.435).
+7:06 AM
+Mesh point fuzzing enabled, points fuzzed up to 1.0mm.
+7:06 AM
+Mesh margin is 0, margin not increased.
+7:06 AM
+Default mesh bounds: (5.0, 5.0), (215.0, 215.0).
+7:06 AM
+Adapted probe count: 5,6.
+7:06 AM
+Default probe count: 6,6.
+7:06 AM
+Algorithm: lagrange.
+7:04 AM
+Run Current: 0.44A Hold Current: 0.44A
+7:03 AM
+y_park = 104.0
+7:03 AM
+x_park = -104.5
+7:03 AM
+move xy
+7:03 AM
+x_axes is NULL
+7:03 AM
+not prepare.
+7:03 AM
+File selected
+7:03 AM
+File opened:MainPhoneHolder_PLA_1h53m.gcode Size:6818476
+7:03 AM
+SDCARD_PRINT_FILE FILENAME="MainPhoneHolder_PLA_1h53m.gcode"
